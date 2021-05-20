@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Shanakay Portfolio
+*showcasing data science projects*
 
-You can use the [editor on GitHub](https://github.com/ShanaBrand/Shana_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Project 1 : Data Cleaning 
+In this project, I illustrate 
+- Handling Missing values; drop missing values or fill them with automated workflows
+- Scaling and Normalization; transform numeric variables to helpful properties
+- Parsing Date; help Python recognize data according to day, months and years
+- Character Encodings; avoid unicode decode errors when loads CSV files
+- Inconsistent Data Entry; efficiently fix typos in data
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Project 2 : Python
+In this project: 
+- Variable, Syntax, assignment and numbers
+- Calling Functions and Defining your own
+- Booleans and Conditionals; use booleans for branching logic
+- Lists and the things you can do with them include indexing, slicing and mutating
+- Loops and List Comprehensions; for and why loops and list comprehensions
+- Strings and Dictionaries
+- External Libraries; imports and operator overloading
 
-### Markdown
+# Project 3 : Advanced SQL
+- Joins and UNIONS
+- Analytical Funtions
+- Nested and Repeated Data
+- Wirting Efficient Queries
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Project 4 : Machine Learning
+ - Basic Exploration ; loading and understanding the data
+ - Machine Learning Model
+ - Model Validation
+ - Underfitting and Overfitting
+ - Random Forests
 
-```markdown
-Syntax highlighted code block
+# Project 5 : Deep Learning
+- Linear Units; the building blocks of deep learning
+- Deep Nueral Networks
+- Keras and Tensorflow
+- Dropout and Batch Normalization; special features to prevent overfritting and stabilize training
+- Binary Classification
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShanaBrand/Shana_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
