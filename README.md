@@ -2,7 +2,6 @@
 showcase of projects completed
 
 # Project 1 : What's the Weather Like?
-## WeatherPy
 In this project, I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities. My final notebook included:
 * Random selection of **at least** 500 unique (non-repeat) cities based on latitude and longitude.
 * Weather check on each of the cities using a series of successive API calls.
