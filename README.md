@@ -13,3 +13,6 @@ I built a series of scatter plots to showcase the following relationships:
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
+
+
+# Project 2 : Advanced Storage Retrieval
