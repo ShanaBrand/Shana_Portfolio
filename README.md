@@ -1,5 +1,5 @@
-# Shanakay Portfolio
-*showcasing data science projects*
+# Shanakay Brandord Portfolio of Projects
+*showcasing data science projects completed*
 
 # Project 1 : Data Cleaning 
 In this project, I illustrate 
